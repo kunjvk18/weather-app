@@ -53,3 +53,5 @@ button {
     width: 300px;
     height: 250px;
 }
+
+@media only screen and (min-device-width: 480px){}
